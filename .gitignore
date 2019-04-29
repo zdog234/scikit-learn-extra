@@ -16,6 +16,7 @@ doc/datasets/generated/
 
 # Distribution / packaging
 
+.python-version
 .Python
 env/
 build/
